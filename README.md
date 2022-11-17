@@ -1,4 +1,4 @@
-- 👋 Hi! I’m @aosuchowski
+- 👋 Hi! I’m Alex
 - 👀 I’m interested in: astronomy, photography, gardening, cooking...the list goes on!
 - 📚 My research interests are: offshore geotechnical engineering, seismic geophysics
 - 🌱 I’m currently learning: Python, how to make music using Sonic Pi
