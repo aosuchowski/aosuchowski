@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aosuchowski
-- 👀 I’m interested in geology, geophysics, and geotechnical engineering
+- 👀 I’m interested in geotechnical engineering, geophysics, and geology
 - 🌱 I’m currently learning more about computers and programming
 - 💞️ I’m looking to collaborate on anything that's interesting
 - 📫 How to reach me ...
