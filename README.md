@@ -1,5 +1,5 @@
 - 👋 Hi! I’m Alex
-- 👀 I’m interested in astronomy, photography, gardening, and cooking—to name a few things
+- 👀 I’m interested in astronomy, photography, gardening, cooking, and many other things
 - 📚 My research interests are offshore geotechnical engineering and seismic geophysics
 - 🌱 I’m currently learning Python and how to make music using Sonic Pi
 
