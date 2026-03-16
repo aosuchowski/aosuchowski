@@ -1,4 +1,4 @@
-Hello, and welcome to MovieFone.
+I like to build things, both physical and digital.
 
 <!---
 aosuchowski/aosuchowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
